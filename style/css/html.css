@@ -1,0 +1,21 @@
+body{
+	background-image: url(../../img/theatre.jpg) ;
+	background-repeat: no-repeat ;
+	background-size: cover ;
+	background-attachment: scroll ;
+	background-position: top ;
+}
+
+header {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+
+nav {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+
+
